@@ -1,7 +1,7 @@
 # MemeShare
 
 
-First Interface :  Allows user to access and discover latest memes. 
+First Interface :  Allow user to access and discover latest memes. 
 
 ![Screenshot (451)](https://user-images.githubusercontent.com/79192605/119719368-5243c400-be86-11eb-8861-d854319c3c48.png)
 
