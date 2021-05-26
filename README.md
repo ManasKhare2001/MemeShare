@@ -9,6 +9,6 @@ Second Interface :  Now, After Clicking on to the "NEXT" Button, User will shift
 
 ![Screenshot (452)](https://user-images.githubusercontent.com/79192605/119719379-566fe180-be86-11eb-9b05-02abc647c84f.png)
 
-Third Interface :  Now, After Clicking on to the "SHARE" Button, User will allow to share the memes with thier friends and family members. 
+Third Interface :  Now, After Clicking on to the "SHARE" Button, User will allow to share the memes with their friends and family members. 
 
 ![Screenshot (453)](https://user-images.githubusercontent.com/79192605/119719389-5a036880-be86-11eb-842b-610c3bc78cc7.png)
