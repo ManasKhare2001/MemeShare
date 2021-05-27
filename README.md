@@ -1,5 +1,12 @@
 # MemeShare
-MemeShare App is a platform that allows users to discover and share memes. Provide functionality to share memes with your friends in all Social Media Platforms.
+• MemeShare App is a platform that allows users to discover and share memes.
+
+• Provide functionality to share memes with your friends in all Social Media Platforms.
+
+• Having the functionality of sharing images of the given meme that is being fetched by reddit using API.
+
+• 𝐒𝐨𝐮𝐫𝐜𝐞 𝐃𝐚𝐭𝐚 :
+1. Reddit API for memes.
 
 
 First Interface :  Allow user to access and discover latest memes. 
